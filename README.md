@@ -1,6 +1,6 @@
 # CS230---Group-5
 
-jonathan nguyen
+Jonathan Nguyen
 
 Esad Hasanovic
 
